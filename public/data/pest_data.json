@@ -1,0 +1,46 @@
+{
+  "version": "1.2",
+  "coordinateSystem": "WGS84",
+  "fields": [
+    {
+      "id": "TY-JCP-001A",
+      "name": "尖草坪示范田-西北区",
+      "bounds": {
+        "northEast": {"lng": 112.55132, "lat": 37.95185},
+        "southWest": {"lng": 112.55112, "lat": 37.95165}
+      },
+      "pestType": 2,
+      "pestCount": 68
+    },
+    {
+      "id": "TY-JCP-001B",
+      "name": "尖草坪示范田-东北区",
+      "bounds": {
+        "northEast": {"lng": 112.55152, "lat": 37.95185},
+        "southWest": {"lng": 112.55132, "lat": 37.95165}
+      },
+      "pestType": 3,
+      "pestCount": 115
+    },
+    {
+      "id": "TY-JCP-001C",
+      "name": "尖草坪示范田-西南区",
+      "bounds": {
+        "northEast": {"lng": 112.55132, "lat": 37.95165},
+        "southWest": {"lng": 112.55112, "lat": 37.95145}
+      },
+      "pestType": 1,
+      "pestCount": 42
+    },
+    {
+      "id": "TY-JCP-001D",
+      "name": "尖草坪示范田-东南区",
+      "bounds": {
+        "northEast": {"lng": 112.55152, "lat": 37.95165},
+        "southWest": {"lng": 112.55132, "lat": 37.95145}
+      },
+      "pestType": 2,
+      "pestCount": 79
+    }
+  ]
+}

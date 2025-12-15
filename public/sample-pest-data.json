@@ -1,0 +1,22 @@
+{
+  "fields": [
+    {
+      "bounds": {
+        "northEast": { "lng": 116.403215, "lat": 39.911234 },
+        "southWest": { "lng": 116.396782, "lat": 39.907123 }
+      },
+      "pestType": 2,
+      "pestCount": 85,
+      "pestName": "中度蚜虫"
+    },
+    {
+      "bounds": {
+        "northEast": { "lng": 116.408912, "lat": 39.913456 },
+        "southWest": { "lng": 116.402345, "lat": 39.909876 }
+      },
+      "pestType": 3,
+      "pestCount": 120,
+      "pestName": "重度红蜘蛛"
+    }
+  ]
+} 

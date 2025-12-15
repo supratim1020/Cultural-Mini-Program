@@ -1,0 +1,168 @@
+#index {
+  color: #d3d6dd;
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform-origin: left top;
+  overflow: hidden;
+
+  .bg {
+    width: 100%;
+    height: 100%;
+    padding: 16px 16px 0 16px;
+    background-image: url("../assets/pageBg.png");
+    background-size: cover;
+    background-position: center center;
+  }
+
+  .host-body {
+    .dv-dec-10,
+    .dv-dec-10-s {
+      width: 33.3%;
+      height: 5px;
+    }
+    .dv-dec-10-s {
+      transform: rotateY(180deg);
+    }
+    .dv-dec-8 {
+      width: 200px;
+      height: 50px;
+    }
+    .title {
+      position: relative;
+      width: 600px;
+      text-align: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      .title-text {
+        font-size: 32px;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translate(-50%);
+      }
+
+      .dv-dec-6 {
+        position: absolute;
+        bottom: -30px;
+        left: 50%;
+        width: 250px;
+        height: 8px;
+        transform: translate(-50%);
+      }
+    }
+
+    // 第二行
+    .aside-width {
+      width: 40%;
+    }
+    .react-r-s,
+    .react-l-s {
+      background-color: #0f1325;
+    }
+
+    // 平行四边形
+    .react-right {
+      &.react-l-s {
+        text-align: right;
+        width: 500px;
+      }
+      font-size: 18px;
+      width: 300px;
+      line-height: 50px;
+      text-align: center;
+      transform: skewX(-45deg);
+
+      .react-after {
+        position: absolute;
+        right: -25px;
+        top: 0;
+        height: 50px;
+        width: 50px;
+        background-color: #0f1325;
+        transform: skewX(45deg);
+      }
+
+      .text {
+        display: inline-block;
+        transform: skewX(45deg);
+      }
+    }
+
+    .react-left {
+      &.react-l-s {
+        width: 500px;
+        text-align: left;
+      }
+      font-size: 18px;
+      width: 300px;
+      height: 50px;
+      line-height: 50px;
+      text-align: center;
+      transform: skewX(45deg);
+      background-color: #0f1325;
+
+      .react-left {
+        position: absolute;
+        left: -25px;
+        top: 0;
+        height: 50px;
+        width: 50px;
+        background-color: #0f1325;
+        transform: skewX(-45deg);
+      }
+
+      .text {
+        display: inline-block;
+        transform: skewX(-45deg);
+      }
+    }
+//这里才是要改的数据
+    .body-box {
+       height: 950px; /* 使用视口单位 */
+      min-height: 0; /* 允许高度收缩 */
+      margin-top: 16px;
+      display: grid;
+      grid-template-columns: 2fr 6fr 2fr; /* 三列比例 */
+      gap: 16px; /* 列间距 */
+      overflow: hidden; /* 扣除标题高度 */
+    }
+
+      ////下方区域的布局
+      //.content-box {
+      //  display: grid;
+      //  grid-template-columns: 2fr 3fr 5fr 3fr 2fr;
+      //}
+      //
+      //// 底部数据
+      //.bottom-box {
+      //  margin-top: 10px;
+      //  display: grid;
+      //  grid-template-columns: repeat(2, 50%);
+      //}
+     .left-column, .right-column {
+      display: grid;
+      grid-template-rows: repeat(3, 1fr); /* 三等分高度 */
+      gap: 16px; /* 行间距 */
+       height: 980px; /* 或父容器的明确高度 */
+       min-height: 500px; /* 覆盖默认最小高度 */
+        overflow: hidden;
+  /* 控制容器整体溢出 */
+    }
+    .grid-item { /* 需要给每个网格项添加这个类 */
+  min-height: 0; /* 突破网格项最小高度限制 */
+  height: 100%; /* 强制继承网格分配的高度 */
+}
+
+    /* 中间主模块 */
+    .center-column {
+      background: rgba(16, 42, 90, 0.7);
+      border-radius: 8px;
+      box-shadow: 0 0 20px rgba(0, 150, 255, 0.3);
+    }
+    }
+  }
